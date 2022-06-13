@@ -15,6 +15,7 @@ RUN apk add --no-cache \
   php81-dom \
   php81-fpm \
   php81-gd \
+  php81-zip \
   php81-intl \
   php81-mbstring \
   php81-mysqli \
